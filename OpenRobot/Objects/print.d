@@ -1,0 +1,13 @@
+.\objects\print.o: ..\lib\drvice\UART\Print.cpp
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\print.o: ..\lib\drvice\UART\Print.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\print.o: ..\lib\drvice\UART\WString.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\print.o: ..\lib\drvice\UART\avr/pgmspace.h
+.\objects\print.o: ..\lib\drvice\UART\Printable.h
